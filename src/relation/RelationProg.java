@@ -36,7 +36,6 @@ public class RelationProg
 	{
 	
 		System.out.println("Comparision of two integers Program starts...");
-		
 		comparision();
 		System.out.println("Comparision of two integers Program ends...");
 	}
